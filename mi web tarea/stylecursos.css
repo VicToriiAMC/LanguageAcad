@@ -1,0 +1,18 @@
+/*Google font*/
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Dancing+Script:wght@400..700&family=Inika:wght@400;700&family=Kode+Mono:wght@400..700&display=swap');
+
+#carouselExampleCaptions{
+    width: 60%;
+    height: 50%;
+    box-align: center;
+    margin-left: 300px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    font-family: "Inika", serif;
+
+}
+
+body{
+    background: linear-gradient( #F5EFCA, #C03A2B);
+    font-family: "Inika", serif;
+}
